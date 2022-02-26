@@ -1,0 +1,7 @@
+content:
+- Theory
+- Code that throws an exception
+- When NPE cannot occur
+- Return empty string when argument is null
+- Avoid NPE
+- Avoid NPE with strings

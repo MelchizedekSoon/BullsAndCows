@@ -1,0 +1,2488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BullsCowsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-26T16:32:51" hostname="LAPTOP-JQNF0IVE" time="5.796">
+  <properties/>
+  <testcase name="start" classname="BullsCowsTest" time="5.796"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Input the length of the secret code:
+> 1
+Input the number of possible symbols in the code:
+> 10
+The secret is prepared: * (0-9).
+Okay, let's start a game!
+Turn 1:
+> 0
+None
+Turn 2:
+> 1
+Grade: 1 bull
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 2?[0m
+Input the length of the secret code:
+> 4
+Input the number of possible symbols in the code:
+> 10
+The secret is prepared: **** (0-9).
+Okay, let's start a game!
+Turn 1:
+> 0000
+None
+Turn 2:
+> 1111
+None
+Turn 3:
+> 2222
+1 bull(s) and 1 cow(s)
+Turn 4:
+> 3333
+None
+Turn 5:
+> 4444
+None
+Turn 6:
+> 5555
+1 bull(s) and 1 cow(s)
+Turn 7:
+> 6666
+None
+Turn 8:
+> 7777
+None
+Turn 9:
+> 8888
+1 bull(s) and 1 cow(s)
+Turn 10:
+> 9999
+1 bull(s) and 1 cow(s)
+Turn 11:
+> 2589
+1 bull(s) and 1 cow(s)
+Turn 12:
+> 5289
+2 bull(s) and 1 cow(s)
+Turn 13:
+> 8259
+1 bull(s) and 1 cow(s)
+Turn 14:
+> 2859
+1 cow(s)
+Turn 15:
+> 5829
+1 cow(s)
+Turn 16:
+> 8529
+1 cow(s)
+Turn 17:
+> 9528
+1 bull(s) and 1 cow(s)
+Turn 18:
+> 5928
+1 cow(s)
+Turn 19:
+> 2958
+1 cow(s)
+Turn 20:
+> 9258
+2 bull(s) and 1 cow(s)
+Turn 21:
+> 5298
+1 bull(s) and 1 cow(s)
+Turn 22:
+> 2598
+1 cow(s)
+Turn 23:
+> 2895
+1 bull(s) and 1 cow(s)
+Turn 24:
+> 8295
+2 bull(s) and 1 cow(s)
+Turn 25:
+> 9285
+Grade: 4 bulls
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 3?[0m
+Input the length of the secret code:
+> 6
+Input the number of possible symbols in the code:
+> 10
+The secret is prepared: ****** (0-9).
+Okay, let's start a game!
+Turn 1:
+> 000000
+None
+Turn 2:
+> 111111
+1 bull(s) and 1 cow(s)
+Turn 3:
+> 222222
+None
+Turn 4:
+> 333333
+None
+Turn 5:
+> 444444
+1 bull(s) and 1 cow(s)
+Turn 6:
+> 555555
+1 bull(s) and 1 cow(s)
+Turn 7:
+> 666666
+1 bull(s) and 1 cow(s)
+Turn 8:
+> 777777
+None
+Turn 9:
+> 888888
+1 bull(s) and 1 cow(s)
+Turn 10:
+> 999999
+1 bull(s) and 1 cow(s)
+Turn 11:
+> 145689
+1 cow(s)
+Turn 12:
+> 415689
+1 cow(s)
+Turn 13:
+> 514689
+2 bull(s) and 1 cow(s)
+Turn 14:
+> 154689
+1 bull(s) and 1 cow(s)
+Turn 15:
+> 451689
+1 cow(s)
+Turn 16:
+> 541689
+1 bull(s) and 1 cow(s)
+Turn 17:
+> 641589
+1 cow(s)
+Turn 18:
+> 461589
+1 cow(s)
+Turn 19:
+> 164589
+1 bull(s) and 1 cow(s)
+Turn 20:
+> 614589
+1 bull(s) and 1 cow(s)
+Turn 21:
+> 416589
+1 cow(s)
+Turn 22:
+> 146589
+1 cow(s)
+Turn 23:
+> 156489
+1 cow(s)
+Turn 24:
+> 516489
+1 bull(s) and 1 cow(s)
+Turn 25:
+> 615489
+1 cow(s)
+Turn 26:
+> 165489
+1 cow(s)
+Turn 27:
+> 561489
+1 bull(s) and 1 cow(s)
+Turn 28:
+> 651489
+1 cow(s)
+Turn 29:
+> 654189
+2 bull(s) and 1 cow(s)
+Turn 30:
+> 564189
+3 bull(s) and 1 cow(s)
+Turn 31:
+> 465189
+1 bull(s) and 1 cow(s)
+Turn 32:
+> 645189
+1 bull(s) and 1 cow(s)
+Turn 33:
+> 546189
+2 bull(s) and 1 cow(s)
+Turn 34:
+> 456189
+1 bull(s) and 1 cow(s)
+Turn 35:
+> 856149
+1 bull(s) and 1 cow(s)
+Turn 36:
+> 586149
+3 bull(s) and 1 cow(s)
+Turn 37:
+> 685149
+2 bull(s) and 1 cow(s)
+Turn 38:
+> 865149
+1 bull(s) and 1 cow(s)
+Turn 39:
+> 568149
+2 bull(s) and 1 cow(s)
+Turn 40:
+> 658149
+1 bull(s) and 1 cow(s)
+Turn 41:
+> 158649
+1 cow(s)
+Turn 42:
+> 518649
+1 bull(s) and 1 cow(s)
+Turn 43:
+> 815649
+1 cow(s)
+Turn 44:
+> 185649
+1 bull(s) and 1 cow(s)
+Turn 45:
+> 581649
+2 bull(s) and 1 cow(s)
+Turn 46:
+> 851649
+1 cow(s)
+Turn 47:
+> 861549
+1 cow(s)
+Turn 48:
+> 681549
+1 bull(s) and 1 cow(s)
+Turn 49:
+> 186549
+1 bull(s) and 1 cow(s)
+Turn 50:
+> 816549
+1 cow(s)
+Turn 51:
+> 618549
+1 cow(s)
+Turn 52:
+> 168549
+1 cow(s)
+Turn 53:
+> 165849
+1 cow(s)
+Turn 54:
+> 615849
+1 cow(s)
+Turn 55:
+> 516849
+1 bull(s) and 1 cow(s)
+Turn 56:
+> 156849
+1 cow(s)
+Turn 57:
+> 651849
+1 cow(s)
+Turn 58:
+> 561849
+1 bull(s) and 1 cow(s)
+Turn 59:
+> 461859
+1 cow(s)
+Turn 60:
+> 641859
+1 cow(s)
+Turn 61:
+> 146859
+1 cow(s)
+Turn 62:
+> 416859
+1 cow(s)
+Turn 63:
+> 614859
+1 bull(s) and 1 cow(s)
+Turn 64:
+> 164859
+1 bull(s) and 1 cow(s)
+Turn 65:
+> 864159
+2 bull(s) and 1 cow(s)
+Turn 66:
+> 684159
+3 bull(s) and 1 cow(s)
+Turn 67:
+> 486159
+2 bull(s) and 1 cow(s)
+Turn 68:
+> 846159
+1 bull(s) and 1 cow(s)
+Turn 69:
+> 648159
+1 bull(s) and 1 cow(s)
+Turn 70:
+> 468159
+1 bull(s) and 1 cow(s)
+Turn 71:
+> 418659
+1 cow(s)
+Turn 72:
+> 148659
+1 cow(s)
+Turn 73:
+> 841659
+1 cow(s)
+Turn 74:
+> 481659
+1 bull(s) and 1 cow(s)
+Turn 75:
+> 184659
+2 bull(s) and 1 cow(s)
+Turn 76:
+> 814659
+1 bull(s) and 1 cow(s)
+Turn 77:
+> 816459
+1 cow(s)
+Turn 78:
+> 186459
+1 bull(s) and 1 cow(s)
+Turn 79:
+> 681459
+1 bull(s) and 1 cow(s)
+Turn 80:
+> 861459
+1 cow(s)
+Turn 81:
+> 168459
+1 cow(s)
+Turn 82:
+> 618459
+1 cow(s)
+Turn 83:
+> 518469
+1 bull(s) and 1 cow(s)
+Turn 84:
+> 158469
+1 cow(s)
+Turn 85:
+> 851469
+1 cow(s)
+Turn 86:
+> 581469
+2 bull(s) and 1 cow(s)
+Turn 87:
+> 185469
+1 bull(s) and 1 cow(s)
+Turn 88:
+> 815469
+1 cow(s)
+Turn 89:
+> 415869
+1 cow(s)
+Turn 90:
+> 145869
+1 cow(s)
+Turn 91:
+> 541869
+1 bull(s) and 1 cow(s)
+Turn 92:
+> 451869
+1 cow(s)
+Turn 93:
+> 154869
+1 bull(s) and 1 cow(s)
+Turn 94:
+> 514869
+2 bull(s) and 1 cow(s)
+Turn 95:
+> 584169
+4 bull(s) and 1 cow(s)
+Turn 96:
+> 854169
+2 bull(s) and 1 cow(s)
+Turn 97:
+> 458169
+1 bull(s) and 1 cow(s)
+Turn 98:
+> 548169
+2 bull(s) and 1 cow(s)
+Turn 99:
+> 845169
+1 bull(s) and 1 cow(s)
+Turn 100:
+> 485169
+2 bull(s) and 1 cow(s)
+Turn 101:
+> 481569
+1 bull(s) and 1 cow(s)
+Turn 102:
+> 841569
+1 cow(s)
+Turn 103:
+> 148569
+1 cow(s)
+Turn 104:
+> 418569
+1 cow(s)
+Turn 105:
+> 814569
+1 bull(s) and 1 cow(s)
+Turn 106:
+> 184569
+2 bull(s) and 1 cow(s)
+Turn 107:
+> 684519
+2 bull(s) and 1 cow(s)
+Turn 108:
+> 864519
+1 bull(s) and 1 cow(s)
+Turn 109:
+> 468519
+1 cow(s)
+Turn 110:
+> 648519
+1 cow(s)
+Turn 111:
+> 846519
+1 cow(s)
+Turn 112:
+> 486519
+1 bull(s) and 1 cow(s)
+Turn 113:
+> 586419
+2 bull(s) and 1 cow(s)
+Turn 114:
+> 856419
+1 cow(s)
+Turn 115:
+> 658419
+1 cow(s)
+Turn 116:
+> 568419
+1 bull(s) and 1 cow(s)
+Turn 117:
+> 865419
+1 cow(s)
+Turn 118:
+> 685419
+1 bull(s) and 1 cow(s)
+Turn 119:
+> 645819
+1 cow(s)
+Turn 120:
+> 465819
+1 cow(s)
+Turn 121:
+> 564819
+2 bull(s) and 1 cow(s)
+Turn 122:
+> 654819
+1 bull(s) and 1 cow(s)
+Turn 123:
+> 456819
+1 cow(s)
+Turn 124:
+> 546819
+1 bull(s) and 1 cow(s)
+Turn 125:
+> 548619
+1 bull(s) and 1 cow(s)
+Turn 126:
+> 458619
+1 cow(s)
+Turn 127:
+> 854619
+1 bull(s) and 1 cow(s)
+Turn 128:
+> 584619
+3 bull(s) and 1 cow(s)
+Turn 129:
+> 485619
+1 bull(s) and 1 cow(s)
+Turn 130:
+> 845619
+1 cow(s)
+Turn 131:
+> 945618
+1 cow(s)
+Turn 132:
+> 495618
+1 cow(s)
+Turn 133:
+> 594618
+2 bull(s) and 1 cow(s)
+Turn 134:
+> 954618
+1 bull(s) and 1 cow(s)
+Turn 135:
+> 459618
+1 cow(s)
+Turn 136:
+> 549618
+1 bull(s) and 1 cow(s)
+Turn 137:
+> 649518
+1 cow(s)
+Turn 138:
+> 469518
+1 cow(s)
+Turn 139:
+> 964518
+1 bull(s) and 1 cow(s)
+Turn 140:
+> 694518
+1 bull(s) and 1 cow(s)
+Turn 141:
+> 496518
+1 cow(s)
+Turn 142:
+> 946518
+1 cow(s)
+Turn 143:
+> 956418
+1 cow(s)
+Turn 144:
+> 596418
+1 bull(s) and 1 cow(s)
+Turn 145:
+> 695418
+1 cow(s)
+Turn 146:
+> 965418
+1 cow(s)
+Turn 147:
+> 569418
+1 bull(s) and 1 cow(s)
+Turn 148:
+> 659418
+1 cow(s)
+Turn 149:
+> 654918
+1 bull(s) and 1 cow(s)
+Turn 150:
+> 564918
+2 bull(s) and 1 cow(s)
+Turn 151:
+> 465918
+1 cow(s)
+Turn 152:
+> 645918
+1 cow(s)
+Turn 153:
+> 546918
+1 bull(s) and 1 cow(s)
+Turn 154:
+> 456918
+1 cow(s)
+Turn 155:
+> 156948
+1 cow(s)
+Turn 156:
+> 516948
+1 bull(s) and 1 cow(s)
+Turn 157:
+> 615948
+1 cow(s)
+Turn 158:
+> 165948
+1 cow(s)
+Turn 159:
+> 561948
+1 bull(s) and 1 cow(s)
+Turn 160:
+> 651948
+1 cow(s)
+Turn 161:
+> 951648
+1 cow(s)
+Turn 162:
+> 591648
+1 bull(s) and 1 cow(s)
+Turn 163:
+> 195648
+1 cow(s)
+Turn 164:
+> 915648
+1 cow(s)
+Turn 165:
+> 519648
+1 bull(s) and 1 cow(s)
+Turn 166:
+> 159648
+1 cow(s)
+Turn 167:
+> 169548
+1 cow(s)
+Turn 168:
+> 619548
+1 cow(s)
+Turn 169:
+> 916548
+1 cow(s)
+Turn 170:
+> 196548
+1 cow(s)
+Turn 171:
+> 691548
+1 cow(s)
+Turn 172:
+> 961548
+1 cow(s)
+Turn 173:
+> 965148
+1 bull(s) and 1 cow(s)
+Turn 174:
+> 695148
+1 bull(s) and 1 cow(s)
+Turn 175:
+> 596148
+2 bull(s) and 1 cow(s)
+Turn 176:
+> 956148
+1 bull(s) and 1 cow(s)
+Turn 177:
+> 659148
+1 bull(s) and 1 cow(s)
+Turn 178:
+> 569148
+2 bull(s) and 1 cow(s)
+Turn 179:
+> 469158
+1 bull(s) and 1 cow(s)
+Turn 180:
+> 649158
+1 bull(s) and 1 cow(s)
+Turn 181:
+> 946158
+1 bull(s) and 1 cow(s)
+Turn 182:
+> 496158
+1 bull(s) and 1 cow(s)
+Turn 183:
+> 694158
+2 bull(s) and 1 cow(s)
+Turn 184:
+> 964158
+2 bull(s) and 1 cow(s)
+Turn 185:
+> 164958
+1 bull(s) and 1 cow(s)
+Turn 186:
+> 614958
+1 bull(s) and 1 cow(s)
+Turn 187:
+> 416958
+1 cow(s)
+Turn 188:
+> 146958
+1 cow(s)
+Turn 189:
+> 641958
+1 cow(s)
+Turn 190:
+> 461958
+1 cow(s)
+Turn 191:
+> 491658
+1 cow(s)
+Turn 192:
+> 941658
+1 cow(s)
+Turn 193:
+> 149658
+1 cow(s)
+Turn 194:
+> 419658
+1 cow(s)
+Turn 195:
+> 914658
+1 bull(s) and 1 cow(s)
+Turn 196:
+> 194658
+1 bull(s) and 1 cow(s)
+Turn 197:
+> 196458
+1 cow(s)
+Turn 198:
+> 916458
+1 cow(s)
+Turn 199:
+> 619458
+1 cow(s)
+Turn 200:
+> 169458
+1 cow(s)
+Turn 201:
+> 961458
+1 cow(s)
+Turn 202:
+> 691458
+1 cow(s)
+Turn 203:
+> 591468
+1 bull(s) and 1 cow(s)
+Turn 204:
+> 951468
+1 cow(s)
+Turn 205:
+> 159468
+1 cow(s)
+Turn 206:
+> 519468
+1 bull(s) and 1 cow(s)
+Turn 207:
+> 915468
+1 cow(s)
+Turn 208:
+> 195468
+1 cow(s)
+Turn 209:
+> 495168
+1 bull(s) and 1 cow(s)
+Turn 210:
+> 945168
+1 bull(s) and 1 cow(s)
+Turn 211:
+> 549168
+2 bull(s) and 1 cow(s)
+Turn 212:
+> 459168
+1 bull(s) and 1 cow(s)
+Turn 213:
+> 954168
+2 bull(s) and 1 cow(s)
+Turn 214:
+> 594168
+3 bull(s) and 1 cow(s)
+Turn 215:
+> 514968
+2 bull(s) and 1 cow(s)
+Turn 216:
+> 154968
+1 bull(s) and 1 cow(s)
+Turn 217:
+> 451968
+1 cow(s)
+Turn 218:
+> 541968
+1 bull(s) and 1 cow(s)
+Turn 219:
+> 145968
+1 cow(s)
+Turn 220:
+> 415968
+1 cow(s)
+Turn 221:
+> 419568
+1 cow(s)
+Turn 222:
+> 149568
+1 cow(s)
+Turn 223:
+> 941568
+1 cow(s)
+Turn 224:
+> 491568
+1 cow(s)
+Turn 225:
+> 194568
+1 bull(s) and 1 cow(s)
+Turn 226:
+> 914568
+1 bull(s) and 1 cow(s)
+Turn 227:
+> 614598
+2 bull(s) and 1 cow(s)
+Turn 228:
+> 164598
+2 bull(s) and 1 cow(s)
+Turn 229:
+> 461598
+1 bull(s) and 1 cow(s)
+Turn 230:
+> 641598
+1 bull(s) and 1 cow(s)
+Turn 231:
+> 146598
+1 bull(s) and 1 cow(s)
+Turn 232:
+> 416598
+1 bull(s) and 1 cow(s)
+Turn 233:
+> 516498
+2 bull(s) and 1 cow(s)
+Turn 234:
+> 156498
+1 bull(s) and 1 cow(s)
+Turn 235:
+> 651498
+1 bull(s) and 1 cow(s)
+Turn 236:
+> 561498
+2 bull(s) and 1 cow(s)
+Turn 237:
+> 165498
+1 bull(s) and 1 cow(s)
+Turn 238:
+> 615498
+1 bull(s) and 1 cow(s)
+Turn 239:
+> 645198
+2 bull(s) and 1 cow(s)
+Turn 240:
+> 465198
+2 bull(s) and 1 cow(s)
+Turn 241:
+> 564198
+4 bull(s) and 1 cow(s)
+Turn 242:
+> 654198
+3 bull(s) and 1 cow(s)
+Turn 243:
+> 456198
+2 bull(s) and 1 cow(s)
+Turn 244:
+> 546198
+3 bull(s) and 1 cow(s)
+Turn 245:
+> 541698
+2 bull(s) and 1 cow(s)
+Turn 246:
+> 451698
+1 bull(s) and 1 cow(s)
+Turn 247:
+> 154698
+2 bull(s) and 1 cow(s)
+Turn 248:
+> 514698
+3 bull(s) and 1 cow(s)
+Turn 249:
+> 415698
+1 bull(s) and 1 cow(s)
+Turn 250:
+> 145698
+1 bull(s) and 1 cow(s)
+Turn 251:
+> 185694
+2 bull(s) and 1 cow(s)
+Turn 252:
+> 815694
+1 bull(s) and 1 cow(s)
+Turn 253:
+> 518694
+2 bull(s) and 1 cow(s)
+Turn 254:
+> 158694
+1 bull(s) and 1 cow(s)
+Turn 255:
+> 851694
+1 bull(s) and 1 cow(s)
+Turn 256:
+> 581694
+3 bull(s) and 1 cow(s)
+Turn 257:
+> 681594
+2 bull(s) and 1 cow(s)
+Turn 258:
+> 861594
+1 bull(s) and 1 cow(s)
+Turn 259:
+> 168594
+1 bull(s) and 1 cow(s)
+Turn 260:
+> 618594
+1 bull(s) and 1 cow(s)
+Turn 261:
+> 816594
+1 bull(s) and 1 cow(s)
+Turn 262:
+> 186594
+2 bull(s) and 1 cow(s)
+Turn 263:
+> 156894
+1 bull(s) and 1 cow(s)
+Turn 264:
+> 516894
+2 bull(s) and 1 cow(s)
+Turn 265:
+> 615894
+1 bull(s) and 1 cow(s)
+Turn 266:
+> 165894
+1 bull(s) and 1 cow(s)
+Turn 267:
+> 561894
+2 bull(s) and 1 cow(s)
+Turn 268:
+> 651894
+1 bull(s) and 1 cow(s)
+Turn 269:
+> 658194
+2 bull(s) and 1 cow(s)
+Turn 270:
+> 568194
+3 bull(s) and 1 cow(s)
+Turn 271:
+> 865194
+2 bull(s) and 1 cow(s)
+Turn 272:
+> 685194
+3 bull(s) and 1 cow(s)
+Turn 273:
+> 586194
+4 bull(s) and 1 cow(s)
+Turn 274:
+> 856194
+2 bull(s) and 1 cow(s)
+Turn 275:
+> 956184
+1 bull(s) and 1 cow(s)
+Turn 276:
+> 596184
+2 bull(s) and 1 cow(s)
+Turn 277:
+> 695184
+1 bull(s) and 1 cow(s)
+Turn 278:
+> 965184
+1 bull(s) and 1 cow(s)
+Turn 279:
+> 569184
+2 bull(s) and 1 cow(s)
+Turn 280:
+> 659184
+1 bull(s) and 1 cow(s)
+Turn 281:
+> 159684
+1 cow(s)
+Turn 282:
+> 519684
+1 bull(s) and 1 cow(s)
+Turn 283:
+> 915684
+1 cow(s)
+Turn 284:
+> 195684
+1 cow(s)
+Turn 285:
+> 591684
+1 bull(s) and 1 cow(s)
+Turn 286:
+> 951684
+1 cow(s)
+Turn 287:
+> 961584
+1 cow(s)
+Turn 288:
+> 691584
+1 cow(s)
+Turn 289:
+> 196584
+1 cow(s)
+Turn 290:
+> 916584
+1 cow(s)
+Turn 291:
+> 619584
+1 cow(s)
+Turn 292:
+> 169584
+1 cow(s)
+Turn 293:
+> 165984
+1 cow(s)
+Turn 294:
+> 615984
+1 cow(s)
+Turn 295:
+> 516984
+1 bull(s) and 1 cow(s)
+Turn 296:
+> 156984
+1 cow(s)
+Turn 297:
+> 651984
+1 cow(s)
+Turn 298:
+> 561984
+1 bull(s) and 1 cow(s)
+Turn 299:
+> 861954
+1 cow(s)
+Turn 300:
+> 681954
+1 bull(s) and 1 cow(s)
+Turn 301:
+> 186954
+1 bull(s) and 1 cow(s)
+Turn 302:
+> 816954
+1 cow(s)
+Turn 303:
+> 618954
+1 cow(s)
+Turn 304:
+> 168954
+1 cow(s)
+Turn 305:
+> 968154
+1 bull(s) and 1 cow(s)
+Turn 306:
+> 698154
+1 bull(s) and 1 cow(s)
+Turn 307:
+> 896154
+1 bull(s) and 1 cow(s)
+Turn 308:
+> 986154
+2 bull(s) and 1 cow(s)
+Turn 309:
+> 689154
+2 bull(s) and 1 cow(s)
+Turn 310:
+> 869154
+1 bull(s) and 1 cow(s)
+Turn 311:
+> 819654
+1 cow(s)
+Turn 312:
+> 189654
+1 bull(s) and 1 cow(s)
+Turn 313:
+> 981654
+1 bull(s) and 1 cow(s)
+Turn 314:
+> 891654
+1 cow(s)
+Turn 315:
+> 198654
+1 cow(s)
+Turn 316:
+> 918654
+1 cow(s)
+Turn 317:
+> 916854
+1 cow(s)
+Turn 318:
+> 196854
+1 cow(s)
+Turn 319:
+> 691854
+1 cow(s)
+Turn 320:
+> 961854
+1 cow(s)
+Turn 321:
+> 169854
+1 cow(s)
+Turn 322:
+> 619854
+1 cow(s)
+Turn 323:
+> 519864
+1 bull(s) and 1 cow(s)
+Turn 324:
+> 159864
+1 cow(s)
+Turn 325:
+> 951864
+1 cow(s)
+Turn 326:
+> 591864
+1 bull(s) and 1 cow(s)
+Turn 327:
+> 195864
+1 cow(s)
+Turn 328:
+> 915864
+1 cow(s)
+Turn 329:
+> 815964
+1 cow(s)
+Turn 330:
+> 185964
+1 bull(s) and 1 cow(s)
+Turn 331:
+> 581964
+2 bull(s) and 1 cow(s)
+Turn 332:
+> 851964
+1 cow(s)
+Turn 333:
+> 158964
+1 cow(s)
+Turn 334:
+> 518964
+1 bull(s) and 1 cow(s)
+Turn 335:
+> 598164
+2 bull(s) and 1 cow(s)
+Turn 336:
+> 958164
+1 bull(s) and 1 cow(s)
+Turn 337:
+> 859164
+1 bull(s) and 1 cow(s)
+Turn 338:
+> 589164
+3 bull(s) and 1 cow(s)
+Turn 339:
+> 985164
+2 bull(s) and 1 cow(s)
+Turn 340:
+> 895164
+1 bull(s) and 1 cow(s)
+Turn 341:
+> 891564
+1 cow(s)
+Turn 342:
+> 981564
+1 bull(s) and 1 cow(s)
+Turn 343:
+> 189564
+1 bull(s) and 1 cow(s)
+Turn 344:
+> 819564
+1 cow(s)
+Turn 345:
+> 918564
+1 cow(s)
+Turn 346:
+> 198564
+1 cow(s)
+Turn 347:
+> 698514
+1 cow(s)
+Turn 348:
+> 968514
+1 cow(s)
+Turn 349:
+> 869514
+1 cow(s)
+Turn 350:
+> 689514
+1 bull(s) and 1 cow(s)
+Turn 351:
+> 986514
+1 bull(s) and 1 cow(s)
+Turn 352:
+> 896514
+1 cow(s)
+Turn 353:
+> 596814
+1 bull(s) and 1 cow(s)
+Turn 354:
+> 956814
+1 cow(s)
+Turn 355:
+> 659814
+1 cow(s)
+Turn 356:
+> 569814
+1 bull(s) and 1 cow(s)
+Turn 357:
+> 965814
+1 cow(s)
+Turn 358:
+> 695814
+1 cow(s)
+Turn 359:
+> 685914
+1 bull(s) and 1 cow(s)
+Turn 360:
+> 865914
+1 cow(s)
+Turn 361:
+> 568914
+1 bull(s) and 1 cow(s)
+Turn 362:
+> 658914
+1 cow(s)
+Turn 363:
+> 856914
+1 cow(s)
+Turn 364:
+> 586914
+2 bull(s) and 1 cow(s)
+Turn 365:
+> 589614
+2 bull(s) and 1 cow(s)
+Turn 366:
+> 859614
+1 cow(s)
+Turn 367:
+> 958614
+1 cow(s)
+Turn 368:
+> 598614
+1 bull(s) and 1 cow(s)
+Turn 369:
+> 895614
+1 cow(s)
+Turn 370:
+> 985614
+1 bull(s) and 1 cow(s)
+Turn 371:
+> 984615
+2 bull(s) and 1 cow(s)
+Turn 372:
+> 894615
+1 bull(s) and 1 cow(s)
+Turn 373:
+> 498615
+1 cow(s)
+Turn 374:
+> 948615
+1 cow(s)
+Turn 375:
+> 849615
+1 cow(s)
+Turn 376:
+> 489615
+1 bull(s) and 1 cow(s)
+Turn 377:
+> 689415
+1 bull(s) and 1 cow(s)
+Turn 378:
+> 869415
+1 cow(s)
+Turn 379:
+> 968415
+1 cow(s)
+Turn 380:
+> 698415
+1 cow(s)
+Turn 381:
+> 896415
+1 cow(s)
+Turn 382:
+> 986415
+1 bull(s) and 1 cow(s)
+Turn 383:
+> 946815
+1 cow(s)
+Turn 384:
+> 496815
+1 cow(s)
+Turn 385:
+> 694815
+1 bull(s) and 1 cow(s)
+Turn 386:
+> 964815
+1 bull(s) and 1 cow(s)
+Turn 387:
+> 469815
+1 cow(s)
+Turn 388:
+> 649815
+1 cow(s)
+Turn 389:
+> 648915
+1 cow(s)
+Turn 390:
+> 468915
+1 cow(s)
+Turn 391:
+> 864915
+1 bull(s) and 1 cow(s)
+Turn 392:
+> 684915
+2 bull(s) and 1 cow(s)
+Turn 393:
+> 486915
+1 bull(s) and 1 cow(s)
+Turn 394:
+> 846915
+1 cow(s)
+Turn 395:
+> 146985
+1 cow(s)
+Turn 396:
+> 416985
+1 cow(s)
+Turn 397:
+> 614985
+1 bull(s) and 1 cow(s)
+Turn 398:
+> 164985
+1 bull(s) and 1 cow(s)
+Turn 399:
+> 461985
+1 cow(s)
+Turn 400:
+> 641985
+1 cow(s)
+Turn 401:
+> 941685
+1 cow(s)
+Turn 402:
+> 491685
+1 cow(s)
+Turn 403:
+> 194685
+1 bull(s) and 1 cow(s)
+Turn 404:
+> 914685
+1 bull(s) and 1 cow(s)
+Turn 405:
+> 419685
+1 cow(s)
+Turn 406:
+> 149685
+1 cow(s)
+Turn 407:
+> 169485
+1 cow(s)
+Turn 408:
+> 619485
+1 cow(s)
+Turn 409:
+> 916485
+1 cow(s)
+Turn 410:
+> 196485
+1 cow(s)
+Turn 411:
+> 691485
+1 cow(s)
+Turn 412:
+> 961485
+1 cow(s)
+Turn 413:
+> 964185
+2 bull(s) and 1 cow(s)
+Turn 414:
+> 694185
+2 bull(s) and 1 cow(s)
+Turn 415:
+> 496185
+1 bull(s) and 1 cow(s)
+Turn 416:
+> 946185
+1 bull(s) and 1 cow(s)
+Turn 417:
+> 649185
+1 bull(s) and 1 cow(s)
+Turn 418:
+> 469185
+1 bull(s) and 1 cow(s)
+Turn 419:
+> 869145
+1 bull(s) and 1 cow(s)
+Turn 420:
+> 689145
+2 bull(s) and 1 cow(s)
+Turn 421:
+> 986145
+2 bull(s) and 1 cow(s)
+Turn 422:
+> 896145
+1 bull(s) and 1 cow(s)
+Turn 423:
+> 698145
+1 bull(s) and 1 cow(s)
+Turn 424:
+> 968145
+1 bull(s) and 1 cow(s)
+Turn 425:
+> 168945
+1 cow(s)
+Turn 426:
+> 618945
+1 cow(s)
+Turn 427:
+> 816945
+1 cow(s)
+Turn 428:
+> 186945
+1 bull(s) and 1 cow(s)
+Turn 429:
+> 681945
+1 bull(s) and 1 cow(s)
+Turn 430:
+> 861945
+1 cow(s)
+Turn 431:
+> 891645
+1 cow(s)
+Turn 432:
+> 981645
+1 bull(s) and 1 cow(s)
+Turn 433:
+> 189645
+1 bull(s) and 1 cow(s)
+Turn 434:
+> 819645
+1 cow(s)
+Turn 435:
+> 918645
+1 cow(s)
+Turn 436:
+> 198645
+1 cow(s)
+Turn 437:
+> 196845
+1 cow(s)
+Turn 438:
+> 916845
+1 cow(s)
+Turn 439:
+> 619845
+1 cow(s)
+Turn 440:
+> 169845
+1 cow(s)
+Turn 441:
+> 961845
+1 cow(s)
+Turn 442:
+> 691845
+1 cow(s)
+Turn 443:
+> 491865
+1 cow(s)
+Turn 444:
+> 941865
+1 cow(s)
+Turn 445:
+> 149865
+1 cow(s)
+Turn 446:
+> 419865
+1 cow(s)
+Turn 447:
+> 914865
+1 bull(s) and 1 cow(s)
+Turn 448:
+> 194865
+1 bull(s) and 1 cow(s)
+Turn 449:
+> 894165
+2 bull(s) and 1 cow(s)
+Turn 450:
+> 984165
+3 bull(s) and 1 cow(s)
+Turn 451:
+> 489165
+2 bull(s) and 1 cow(s)
+Turn 452:
+> 849165
+1 bull(s) and 1 cow(s)
+Turn 453:
+> 948165
+1 bull(s) and 1 cow(s)
+Turn 454:
+> 498165
+1 bull(s) and 1 cow(s)
+Turn 455:
+> 418965
+1 cow(s)
+Turn 456:
+> 148965
+1 cow(s)
+Turn 457:
+> 841965
+1 cow(s)
+Turn 458:
+> 481965
+1 bull(s) and 1 cow(s)
+Turn 459:
+> 184965
+2 bull(s) and 1 cow(s)
+Turn 460:
+> 814965
+1 bull(s) and 1 cow(s)
+Turn 461:
+> 819465
+1 cow(s)
+Turn 462:
+> 189465
+1 bull(s) and 1 cow(s)
+Turn 463:
+> 981465
+1 bull(s) and 1 cow(s)
+Turn 464:
+> 891465
+1 cow(s)
+Turn 465:
+> 198465
+1 cow(s)
+Turn 466:
+> 918465
+1 cow(s)
+Turn 467:
+> 618495
+1 bull(s) and 1 cow(s)
+Turn 468:
+> 168495
+1 bull(s) and 1 cow(s)
+Turn 469:
+> 861495
+1 bull(s) and 1 cow(s)
+Turn 470:
+> 681495
+2 bull(s) and 1 cow(s)
+Turn 471:
+> 186495
+2 bull(s) and 1 cow(s)
+Turn 472:
+> 816495
+1 bull(s) and 1 cow(s)
+Turn 473:
+> 416895
+1 bull(s) and 1 cow(s)
+Turn 474:
+> 146895
+1 bull(s) and 1 cow(s)
+Turn 475:
+> 641895
+1 bull(s) and 1 cow(s)
+Turn 476:
+> 461895
+1 bull(s) and 1 cow(s)
+Turn 477:
+> 164895
+2 bull(s) and 1 cow(s)
+Turn 478:
+> 614895
+2 bull(s) and 1 cow(s)
+Turn 479:
+> 684195
+4 bull(s) and 1 cow(s)
+Turn 480:
+> 864195
+3 bull(s) and 1 cow(s)
+Turn 481:
+> 468195
+2 bull(s) and 1 cow(s)
+Turn 482:
+> 648195
+2 bull(s) and 1 cow(s)
+Turn 483:
+> 846195
+2 bull(s) and 1 cow(s)
+Turn 484:
+> 486195
+3 bull(s) and 1 cow(s)
+Turn 485:
+> 481695
+2 bull(s) and 1 cow(s)
+Turn 486:
+> 841695
+1 bull(s) and 1 cow(s)
+Turn 487:
+> 148695
+1 bull(s) and 1 cow(s)
+Turn 488:
+> 418695
+1 bull(s) and 1 cow(s)
+Turn 489:
+> 814695
+2 bull(s) and 1 cow(s)
+Turn 490:
+> 184695
+3 bull(s) and 1 cow(s)
+Turn 491:
+> 184596
+4 bull(s) and 1 cow(s)
+Turn 492:
+> 814596
+3 bull(s) and 1 cow(s)
+Turn 493:
+> 418596
+2 bull(s) and 1 cow(s)
+Turn 494:
+> 148596
+2 bull(s) and 1 cow(s)
+Turn 495:
+> 841596
+2 bull(s) and 1 cow(s)
+Turn 496:
+> 481596
+3 bull(s) and 1 cow(s)
+Turn 497:
+> 581496
+4 bull(s) and 1 cow(s)
+Turn 498:
+> 851496
+2 bull(s) and 1 cow(s)
+Turn 499:
+> 158496
+2 bull(s) and 1 cow(s)
+Turn 500:
+> 518496
+3 bull(s) and 1 cow(s)
+Turn 501:
+> 815496
+2 bull(s) and 1 cow(s)
+Turn 502:
+> 185496
+3 bull(s) and 1 cow(s)
+Turn 503:
+> 145896
+2 bull(s) and 1 cow(s)
+Turn 504:
+> 415896
+2 bull(s) and 1 cow(s)
+Turn 505:
+> 514896
+4 bull(s) and 1 cow(s)
+Turn 506:
+> 154896
+3 bull(s) and 1 cow(s)
+Turn 507:
+> 451896
+2 bull(s) and 1 cow(s)
+Turn 508:
+> 541896
+3 bull(s) and 1 cow(s)
+Turn 509:
+> 548196
+4 bull(s) and 1 cow(s)
+Turn 510:
+> 458196
+3 bull(s) and 1 cow(s)
+Turn 511:
+> 854196
+4 bull(s) and 1 cow(s)
+Turn 512:
+> 584196
+Grade: 6 bulls
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 4?[0m
+Input the length of the secret code:
+> 11
+Input the number of possible symbols in the code:
+> 10
+Error: it's not possible to generate a code with a length of 6 with 5 unique symbols.
+?[1;31m
+Start test 5?[0m
+Input the length of the secret code:
+> 4
+Input the number of possible symbols in the code:
+> 16
+The secret is prepared: **** (0-9, a-f).
+Okay, let's start a game!
+Turn 1:
+> 0000
+None
+Turn 2:
+> 1111
+1 bull(s) and 1 cow(s)
+Turn 3:
+> 2222
+1 bull(s) and 1 cow(s)
+Turn 4:
+> 3333
+1 bull(s) and 1 cow(s)
+Turn 5:
+> 4444
+1 bull(s) and 1 cow(s)
+Turn 6:
+> 1234
+Grade: 4 bulls
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 6?[0m
+Input the length of the secret code:
+> 6
+Input the number of possible symbols in the code:
+> 36
+The secret is prepared: ****** (0-9, a-z).
+Okay, let's start a game!
+Turn 1:
+> 000000
+1 bull(s) and 1 cow(s)
+Turn 2:
+> 111111
+None
+Turn 3:
+> 222222
+None
+Turn 4:
+> 333333
+None
+Turn 5:
+> 444444
+1 bull(s) and 1 cow(s)
+Turn 6:
+> 555555
+1 bull(s) and 1 cow(s)
+Turn 7:
+> 666666
+1 bull(s) and 1 cow(s)
+Turn 8:
+> 777777
+None
+Turn 9:
+> 888888
+1 bull(s) and 1 cow(s)
+Turn 10:
+> 999999
+1 bull(s) and 1 cow(s)
+Turn 11:
+> 045689
+1 bull(s) and 1 cow(s)
+Turn 12:
+> 405689
+1 bull(s) and 1 cow(s)
+Turn 13:
+> 504689
+2 bull(s) and 1 cow(s)
+Turn 14:
+> 054689
+1 bull(s) and 1 cow(s)
+Turn 15:
+> 450689
+2 bull(s) and 1 cow(s)
+Turn 16:
+> 540689
+3 bull(s) and 1 cow(s)
+Turn 17:
+> 640589
+1 bull(s) and 1 cow(s)
+Turn 18:
+> 460589
+1 bull(s) and 1 cow(s)
+Turn 19:
+> 064589
+1 cow(s)
+Turn 20:
+> 604589
+1 cow(s)
+Turn 21:
+> 406589
+1 cow(s)
+Turn 22:
+> 046589
+1 cow(s)
+Turn 23:
+> 056489
+1 cow(s)
+Turn 24:
+> 506489
+1 bull(s) and 1 cow(s)
+Turn 25:
+> 605489
+1 cow(s)
+Turn 26:
+> 065489
+1 cow(s)
+Turn 27:
+> 560489
+2 bull(s) and 1 cow(s)
+Turn 28:
+> 650489
+1 bull(s) and 1 cow(s)
+Turn 29:
+> 654089
+1 cow(s)
+Turn 30:
+> 564089
+1 bull(s) and 1 cow(s)
+Turn 31:
+> 465089
+1 cow(s)
+Turn 32:
+> 645089
+1 cow(s)
+Turn 33:
+> 546089
+1 bull(s) and 1 cow(s)
+Turn 34:
+> 456089
+1 cow(s)
+Turn 35:
+> 856049
+1 cow(s)
+Turn 36:
+> 586049
+2 bull(s) and 1 cow(s)
+Turn 37:
+> 685049
+1 bull(s) and 1 cow(s)
+Turn 38:
+> 865049
+1 cow(s)
+Turn 39:
+> 568049
+1 bull(s) and 1 cow(s)
+Turn 40:
+> 658049
+1 cow(s)
+Turn 41:
+> 058649
+1 bull(s) and 1 cow(s)
+Turn 42:
+> 508649
+2 bull(s) and 1 cow(s)
+Turn 43:
+> 805649
+1 bull(s) and 1 cow(s)
+Turn 44:
+> 085649
+2 bull(s) and 1 cow(s)
+Turn 45:
+> 580649
+4 bull(s) and 1 cow(s)
+Turn 46:
+> 850649
+2 bull(s) and 1 cow(s)
+Turn 47:
+> 860549
+1 bull(s) and 1 cow(s)
+Turn 48:
+> 680549
+2 bull(s) and 1 cow(s)
+Turn 49:
+> 086549
+1 bull(s) and 1 cow(s)
+Turn 50:
+> 806549
+1 cow(s)
+Turn 51:
+> 608549
+1 cow(s)
+Turn 52:
+> 068549
+1 cow(s)
+Turn 53:
+> 065849
+1 cow(s)
+Turn 54:
+> 605849
+1 cow(s)
+Turn 55:
+> 506849
+1 bull(s) and 1 cow(s)
+Turn 56:
+> 056849
+1 cow(s)
+Turn 57:
+> 650849
+1 bull(s) and 1 cow(s)
+Turn 58:
+> 560849
+2 bull(s) and 1 cow(s)
+Turn 59:
+> 460859
+1 bull(s) and 1 cow(s)
+Turn 60:
+> 640859
+1 bull(s) and 1 cow(s)
+Turn 61:
+> 046859
+1 cow(s)
+Turn 62:
+> 406859
+1 cow(s)
+Turn 63:
+> 604859
+1 cow(s)
+Turn 64:
+> 064859
+1 cow(s)
+Turn 65:
+> 864059
+1 cow(s)
+Turn 66:
+> 684059
+1 bull(s) and 1 cow(s)
+Turn 67:
+> 486059
+1 bull(s) and 1 cow(s)
+Turn 68:
+> 846059
+1 cow(s)
+Turn 69:
+> 648059
+1 cow(s)
+Turn 70:
+> 468059
+1 cow(s)
+Turn 71:
+> 408659
+1 bull(s) and 1 cow(s)
+Turn 72:
+> 048659
+1 bull(s) and 1 cow(s)
+Turn 73:
+> 840659
+2 bull(s) and 1 cow(s)
+Turn 74:
+> 480659
+3 bull(s) and 1 cow(s)
+Turn 75:
+> 084659
+2 bull(s) and 1 cow(s)
+Turn 76:
+> 804659
+1 bull(s) and 1 cow(s)
+Turn 77:
+> 806459
+1 cow(s)
+Turn 78:
+> 086459
+1 bull(s) and 1 cow(s)
+Turn 79:
+> 680459
+2 bull(s) and 1 cow(s)
+Turn 80:
+> 860459
+1 bull(s) and 1 cow(s)
+Turn 81:
+> 068459
+1 cow(s)
+Turn 82:
+> 608459
+1 cow(s)
+Turn 83:
+> 508469
+1 bull(s) and 1 cow(s)
+Turn 84:
+> 058469
+1 cow(s)
+Turn 85:
+> 850469
+1 bull(s) and 1 cow(s)
+Turn 86:
+> 580469
+3 bull(s) and 1 cow(s)
+Turn 87:
+> 085469
+1 bull(s) and 1 cow(s)
+Turn 88:
+> 805469
+1 cow(s)
+Turn 89:
+> 405869
+1 cow(s)
+Turn 90:
+> 045869
+1 cow(s)
+Turn 91:
+> 540869
+2 bull(s) and 1 cow(s)
+Turn 92:
+> 450869
+1 bull(s) and 1 cow(s)
+Turn 93:
+> 054869
+1 cow(s)
+Turn 94:
+> 504869
+1 bull(s) and 1 cow(s)
+Turn 95:
+> 584069
+2 bull(s) and 1 cow(s)
+Turn 96:
+> 854069
+1 cow(s)
+Turn 97:
+> 458069
+1 cow(s)
+Turn 98:
+> 548069
+1 bull(s) and 1 cow(s)
+Turn 99:
+> 845069
+1 cow(s)
+Turn 100:
+> 485069
+1 bull(s) and 1 cow(s)
+Turn 101:
+> 480569
+2 bull(s) and 1 cow(s)
+Turn 102:
+> 840569
+1 bull(s) and 1 cow(s)
+Turn 103:
+> 048569
+1 cow(s)
+Turn 104:
+> 408569
+1 cow(s)
+Turn 105:
+> 804569
+1 cow(s)
+Turn 106:
+> 084569
+1 bull(s) and 1 cow(s)
+Turn 107:
+> 684509
+1 bull(s) and 1 cow(s)
+Turn 108:
+> 864509
+1 cow(s)
+Turn 109:
+> 468509
+1 cow(s)
+Turn 110:
+> 648509
+1 cow(s)
+Turn 111:
+> 846509
+1 cow(s)
+Turn 112:
+> 486509
+1 bull(s) and 1 cow(s)
+Turn 113:
+> 586409
+2 bull(s) and 1 cow(s)
+Turn 114:
+> 856409
+1 cow(s)
+Turn 115:
+> 658409
+1 cow(s)
+Turn 116:
+> 568409
+1 bull(s) and 1 cow(s)
+Turn 117:
+> 865409
+1 cow(s)
+Turn 118:
+> 685409
+1 bull(s) and 1 cow(s)
+Turn 119:
+> 645809
+1 cow(s)
+Turn 120:
+> 465809
+1 cow(s)
+Turn 121:
+> 564809
+1 bull(s) and 1 cow(s)
+Turn 122:
+> 654809
+1 cow(s)
+Turn 123:
+> 456809
+1 cow(s)
+Turn 124:
+> 546809
+1 bull(s) and 1 cow(s)
+Turn 125:
+> 548609
+2 bull(s) and 1 cow(s)
+Turn 126:
+> 458609
+1 bull(s) and 1 cow(s)
+Turn 127:
+> 854609
+1 bull(s) and 1 cow(s)
+Turn 128:
+> 584609
+3 bull(s) and 1 cow(s)
+Turn 129:
+> 485609
+2 bull(s) and 1 cow(s)
+Turn 130:
+> 845609
+1 bull(s) and 1 cow(s)
+Turn 131:
+> 945608
+1 bull(s) and 1 cow(s)
+Turn 132:
+> 495608
+1 bull(s) and 1 cow(s)
+Turn 133:
+> 594608
+2 bull(s) and 1 cow(s)
+Turn 134:
+> 954608
+1 bull(s) and 1 cow(s)
+Turn 135:
+> 459608
+1 bull(s) and 1 cow(s)
+Turn 136:
+> 549608
+2 bull(s) and 1 cow(s)
+Turn 137:
+> 649508
+1 cow(s)
+Turn 138:
+> 469508
+1 cow(s)
+Turn 139:
+> 964508
+1 cow(s)
+Turn 140:
+> 694508
+1 cow(s)
+Turn 141:
+> 496508
+1 cow(s)
+Turn 142:
+> 946508
+1 cow(s)
+Turn 143:
+> 956408
+1 cow(s)
+Turn 144:
+> 596408
+1 bull(s) and 1 cow(s)
+Turn 145:
+> 695408
+1 cow(s)
+Turn 146:
+> 965408
+1 cow(s)
+Turn 147:
+> 569408
+1 bull(s) and 1 cow(s)
+Turn 148:
+> 659408
+1 cow(s)
+Turn 149:
+> 654908
+1 cow(s)
+Turn 150:
+> 564908
+1 bull(s) and 1 cow(s)
+Turn 151:
+> 465908
+1 cow(s)
+Turn 152:
+> 645908
+1 cow(s)
+Turn 153:
+> 546908
+1 bull(s) and 1 cow(s)
+Turn 154:
+> 456908
+1 cow(s)
+Turn 155:
+> 056948
+1 cow(s)
+Turn 156:
+> 506948
+1 bull(s) and 1 cow(s)
+Turn 157:
+> 605948
+1 cow(s)
+Turn 158:
+> 065948
+1 cow(s)
+Turn 159:
+> 560948
+2 bull(s) and 1 cow(s)
+Turn 160:
+> 650948
+1 bull(s) and 1 cow(s)
+Turn 161:
+> 950648
+2 bull(s) and 1 cow(s)
+Turn 162:
+> 590648
+3 bull(s) and 1 cow(s)
+Turn 163:
+> 095648
+1 bull(s) and 1 cow(s)
+Turn 164:
+> 905648
+1 bull(s) and 1 cow(s)
+Turn 165:
+> 509648
+2 bull(s) and 1 cow(s)
+Turn 166:
+> 059648
+1 bull(s) and 1 cow(s)
+Turn 167:
+> 069548
+1 cow(s)
+Turn 168:
+> 609548
+1 cow(s)
+Turn 169:
+> 906548
+1 cow(s)
+Turn 170:
+> 096548
+1 cow(s)
+Turn 171:
+> 690548
+1 bull(s) and 1 cow(s)
+Turn 172:
+> 960548
+1 bull(s) and 1 cow(s)
+Turn 173:
+> 965048
+1 cow(s)
+Turn 174:
+> 695048
+1 cow(s)
+Turn 175:
+> 596048
+1 bull(s) and 1 cow(s)
+Turn 176:
+> 956048
+1 cow(s)
+Turn 177:
+> 659048
+1 cow(s)
+Turn 178:
+> 569048
+1 bull(s) and 1 cow(s)
+Turn 179:
+> 469058
+1 cow(s)
+Turn 180:
+> 649058
+1 cow(s)
+Turn 181:
+> 946058
+1 cow(s)
+Turn 182:
+> 496058
+1 cow(s)
+Turn 183:
+> 694058
+1 cow(s)
+Turn 184:
+> 964058
+1 cow(s)
+Turn 185:
+> 064958
+1 cow(s)
+Turn 186:
+> 604958
+1 cow(s)
+Turn 187:
+> 406958
+1 cow(s)
+Turn 188:
+> 046958
+1 cow(s)
+Turn 189:
+> 640958
+1 bull(s) and 1 cow(s)
+Turn 190:
+> 460958
+1 bull(s) and 1 cow(s)
+Turn 191:
+> 490658
+2 bull(s) and 1 cow(s)
+Turn 192:
+> 940658
+2 bull(s) and 1 cow(s)
+Turn 193:
+> 049658
+1 bull(s) and 1 cow(s)
+Turn 194:
+> 409658
+1 bull(s) and 1 cow(s)
+Turn 195:
+> 904658
+1 bull(s) and 1 cow(s)
+Turn 196:
+> 094658
+1 bull(s) and 1 cow(s)
+Turn 197:
+> 096458
+1 cow(s)
+Turn 198:
+> 906458
+1 cow(s)
+Turn 199:
+> 609458
+1 cow(s)
+Turn 200:
+> 069458
+1 cow(s)
+Turn 201:
+> 960458
+1 bull(s) and 1 cow(s)
+Turn 202:
+> 690458
+1 bull(s) and 1 cow(s)
+Turn 203:
+> 590468
+2 bull(s) and 1 cow(s)
+Turn 204:
+> 950468
+1 bull(s) and 1 cow(s)
+Turn 205:
+> 059468
+1 cow(s)
+Turn 206:
+> 509468
+1 bull(s) and 1 cow(s)
+Turn 207:
+> 905468
+1 cow(s)
+Turn 208:
+> 095468
+1 cow(s)
+Turn 209:
+> 495068
+1 cow(s)
+Turn 210:
+> 945068
+1 cow(s)
+Turn 211:
+> 549068
+1 bull(s) and 1 cow(s)
+Turn 212:
+> 459068
+1 cow(s)
+Turn 213:
+> 954068
+1 cow(s)
+Turn 214:
+> 594068
+1 bull(s) and 1 cow(s)
+Turn 215:
+> 504968
+1 bull(s) and 1 cow(s)
+Turn 216:
+> 054968
+1 cow(s)
+Turn 217:
+> 450968
+1 bull(s) and 1 cow(s)
+Turn 218:
+> 540968
+2 bull(s) and 1 cow(s)
+Turn 219:
+> 045968
+1 cow(s)
+Turn 220:
+> 405968
+1 cow(s)
+Turn 221:
+> 409568
+1 cow(s)
+Turn 222:
+> 049568
+1 cow(s)
+Turn 223:
+> 940568
+1 bull(s) and 1 cow(s)
+Turn 224:
+> 490568
+1 bull(s) and 1 cow(s)
+Turn 225:
+> 094568
+1 cow(s)
+Turn 226:
+> 904568
+1 cow(s)
+Turn 227:
+> 604598
+1 bull(s) and 1 cow(s)
+Turn 228:
+> 064598
+1 bull(s) and 1 cow(s)
+Turn 229:
+> 460598
+2 bull(s) and 1 cow(s)
+Turn 230:
+> 640598
+2 bull(s) and 1 cow(s)
+Turn 231:
+> 046598
+1 bull(s) and 1 cow(s)
+Turn 232:
+> 406598
+1 bull(s) and 1 cow(s)
+Turn 233:
+> 506498
+2 bull(s) and 1 cow(s)
+Turn 234:
+> 056498
+1 bull(s) and 1 cow(s)
+Turn 235:
+> 650498
+2 bull(s) and 1 cow(s)
+Turn 236:
+> 560498
+3 bull(s) and 1 cow(s)
+Turn 237:
+> 065498
+1 bull(s) and 1 cow(s)
+Turn 238:
+> 605498
+1 bull(s) and 1 cow(s)
+Turn 239:
+> 645098
+1 bull(s) and 1 cow(s)
+Turn 240:
+> 465098
+1 bull(s) and 1 cow(s)
+Turn 241:
+> 564098
+2 bull(s) and 1 cow(s)
+Turn 242:
+> 654098
+1 bull(s) and 1 cow(s)
+Turn 243:
+> 456098
+1 bull(s) and 1 cow(s)
+Turn 244:
+> 546098
+2 bull(s) and 1 cow(s)
+Turn 245:
+> 540698
+4 bull(s) and 1 cow(s)
+Turn 246:
+> 450698
+3 bull(s) and 1 cow(s)
+Turn 247:
+> 054698
+2 bull(s) and 1 cow(s)
+Turn 248:
+> 504698
+3 bull(s) and 1 cow(s)
+Turn 249:
+> 405698
+2 bull(s) and 1 cow(s)
+Turn 250:
+> 045698
+2 bull(s) and 1 cow(s)
+Turn 251:
+> 085694
+4 bull(s) and 1 cow(s)
+Turn 252:
+> 805694
+3 bull(s) and 1 cow(s)
+Turn 253:
+> 508694
+4 bull(s) and 1 cow(s)
+Turn 254:
+> 058694
+3 bull(s) and 1 cow(s)
+Turn 255:
+> 850694
+4 bull(s) and 1 cow(s)
+Turn 256:
+> 580694
+Grade: 6 bulls
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 7?[0m
+Input the length of the secret code:
+> 0
+Input the number of possible symbols in the code:
+> 1
+Error: the code is non-existent.
+?[1;31m
+Start test 8?[0m
+Input the length of the secret code:
+> 10
+Input the number of possible symbols in the code:
+> 9
+Error: it's not possible to generate a code with a length of 6 with 5 unique symbols.
+?[1;31m
+Start test 9?[0m
+Input the length of the secret code:
+> 9
+Input the number of possible symbols in the code:
+> 37
+Error: maximum number of possible symbols in the code is 36 (0-9, a-z).
+?[1;31m
+Start test 10?[0m
+Input the length of the secret code:
+> abcdefg 1 -6
+Error: "abcdefg 1 -6" isn't a valid number.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

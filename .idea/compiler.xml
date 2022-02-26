@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-classes-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-reports-tests.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-test-results.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task-build-tmp.main" target="11" />
+      <module name="Bulls_and_Cows.Bulls_and_Cows-task.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-NPE-Avoid_NPE.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-NPE-Avoid_NPE_with_strings.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-NPE-Code_that_throws_an_exception.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-NPE-Return_empty_string_when_argument_is_null.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-NPE-Theory.main" target="11" />
+      <module name="Bulls_and_Cows.Topics-NPE-When_NPE_cannot_occur.main" target="11" />
+      <module name="Bulls_and_Cows.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
